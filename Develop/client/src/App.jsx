@@ -6,7 +6,7 @@ import Navbar from './components/Navbar';
 import SearchBooks from './pages/SearchBooks';
 import SavedBooks from './pages/SavedBooks';
 import LoginForm from './components/LoginForm';
-import SignUpForm from './components/SignUpForm';
+import SignUpForm from './components/SignupForm';
 
 function App() {
   return (
