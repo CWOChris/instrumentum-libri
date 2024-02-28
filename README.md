@@ -6,39 +6,19 @@ Web app to search for books, view info about them and save favorites on user's p
 
 ## :bookmark_tabs: Table of Contents
 * [Installation](#installation)
-* [Usage](#usage)
 * [Credits](#credits)
 * [License](#license)
-* [Badges](#badges)
-* [Features](#features)
-* [Contributing](#contributing)
-* [Tests](#tests)
 * [Questions](#questions)
 * [Badges](#badges)
 
 ## :hourglass: Installation
 * "npm i" in the Develop directory.
 
-## :arrows_counterclockwise: Usage
-* 
-
 ## :clapper: Credits
-* None
+* [CWOChris](https://github.com/CWOChris)
 
 ## :key: License
 This project is licensed under the MIT license. https://opensource.org/licenses/MIT
-
-## :name_badge: Badges
-* 
-
-## :mag: Features
-* 
-
-## :muscle: Contributing
-* 
-
-## :card_index: Tests
-* 
 
 ## :interrobang: Questions
 * If you have any questions, you can reach me at c.w.rob2024@gmail.com or visit my GitHub profile at [CWOChris](https://github.com/CWOChris).
